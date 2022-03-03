@@ -1,5 +1,5 @@
 # netflix-clone
-A full stack web application created with my team for journalers who want to track their moods and daily activities
+A clone application replicating the streaming service netflix
 
 ## Technologies Used
 - React.js
